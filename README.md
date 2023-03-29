@@ -17,8 +17,9 @@
 
 <br>
 
+- Wandring Arnoud The Internet Mostly 
 - Playing CTF's at spare time
-- Personal website [link](0xerrors.eu.org)
+- My website [link](0xerrors.eu.org)
 
 <br><br>
 
