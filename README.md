@@ -30,7 +30,6 @@
 
 <p align="center">
 
-- **~**
     
 <br>
 
