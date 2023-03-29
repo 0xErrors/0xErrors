@@ -37,7 +37,7 @@
 
 <br>   
     
-- **:**
+- 
 
    ![Xcode](https://camo.githubusercontent.com/7e5641f73052dc5ff26e7751687c83ce75a963a3152f367a19157b804a87ab3f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d58636f646526636f6c6f723d313437454642266c6f676f3d58636f6465266c6f676f436f6c6f723d464646464646266c6162656c3d)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,13 +46,13 @@
 
 <br>
 
-- **:**
+- 
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
-- **:**
+- 
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -62,7 +62,7 @@
 
 <br>
 
-- **:**
+- 
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
