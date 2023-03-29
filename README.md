@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0XERRORS/0XERRORS/blob/main/mdimage/about1.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0XERRORS/0XERRORS/blob/main/mdimage/about.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0XERRORS/0XERRORS/blob/main/mdimage/about.gif" width = 750px></picture>
 
 <br>
 
