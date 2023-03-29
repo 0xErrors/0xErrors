@@ -13,14 +13,13 @@
 	
 ## <picture><img src = "https://github.com/0XERRORS/0XERRORS/blob/main/mdimage/about1.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0XERRORS/0XERRORS/blob/main/mdimage/about.gif" width = 750px></picture>
+<picture> <img align="right" src="https://github.com/0XERRORS/0XERRORS/blob/main/mdimage/about.gif" width = 450px></picture>
 
 <br>
-<span>- Wandring Arnoud The Internet 😅 
+- Wandring Arnoud The Internet 😅 
 - Playing CTF's at spare time
 - My website [link](0xerrors.eu.org)
 
-</span>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
