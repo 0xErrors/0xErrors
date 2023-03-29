@@ -113,5 +113,5 @@
 
 <br>
 
-Credit: [0XERRORS](https://github.com/0XERRORs)
+[0XERRORS](https://github.com/0XERRORs)
 
