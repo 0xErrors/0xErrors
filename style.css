@@ -265,6 +265,12 @@ footer{
     justify-content: center;
     margin-bottom: 1.4rem;
 }
+.social-links h2{
+    font-family: var(--Quicksand);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.4rem;
+}
 .social-links a{
     border: 2px solid #000000;
     color: #000000;
@@ -290,6 +296,14 @@ footer{
     font-family: var(--Playfair);
     letter-spacing: 2px;
 }
+/* privacy policy */
+.PrivacyPolicy{
+    color: #000;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.4rem;
+}
+
 
 /* Media Queries */
 @media screen and (min-width: 540px){

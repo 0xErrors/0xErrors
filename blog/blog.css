@@ -183,6 +183,12 @@ footer{
     justify-content: center;
     margin-bottom: 1.4rem;
 }
+.social-links h2{
+    font-family: var(--Quicksand);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.4rem;
+}
 .social-links a{
     border: 2px solid #000000;
     color: #000000;
@@ -208,7 +214,13 @@ footer{
     font-family: var(--Playfair);
     letter-spacing: 2px;
 }
-
+/* privacy policy */
+.PrivacyPolicy{
+    color: #000;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.4rem;
+}
 /* Media Queries */
 @media screen and (min-width: 540px){
     .navbar-nav a{
@@ -267,33 +279,6 @@ footer{
         grid-template-columns: repeat(3, 1fr);
     }
 }
-/* Add this to your style.css file */
-.fade-in {
-    animation: fadeIn 0.5s ease-in-out;
-  }
-  
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
-
-      .fade-in {
-        animation: fadeIn 0.5s;
-      }
-
-      @keyframes fadeIn {
-        0% {
-          opacity: 0;
-        }
-        100% {
-          opacity: 1;
-        }
-      }
-    
       pre {
         background: #9e9e9e;
         border: 1px solid #000000;
