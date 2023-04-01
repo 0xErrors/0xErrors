@@ -229,7 +229,12 @@ header{
 .about-text{
     margin: 2rem 0;
 }
-.about-text > p{
+.about-text h2{
+    font-size: 2rem;
+    padding: 0.6rem 0;
+    opacity: 0.8;
+}
+.about-text p{
     font-size: 1.1rem;
     padding: 0.6rem 0;
     opacity: 0.8;
