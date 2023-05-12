@@ -5,7 +5,7 @@
     --Quicksand: 'Quicksand', sans-serif;
     --Roboto: 'Roboto', sans-serif;
     --dark: #000000;
-    --exDark: #00ff66;
+    --exDark: #ffffff;
 }
 *{
     padding: 0;
@@ -72,7 +72,7 @@ header{
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #9000ff;
+    color: #c6c6c6;
 }
 .banner-title{
     font-size: 3rem;
@@ -116,6 +116,8 @@ header{
     margin: 1.5rem 0;
 }
 .home-img{
+    width: auto;
+    height: auto;
     position: relative;
     overflow: hidden;
 }
