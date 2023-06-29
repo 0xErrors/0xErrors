@@ -19,7 +19,7 @@
 
 - Wandring Arnoud The Internet 😅 
 - Playing CTF's at spare time
-- My website [link](https://0xerrors.eu.org)
+- My [website](https://0xerrors.eu.org)
 
 <br><br>
 
