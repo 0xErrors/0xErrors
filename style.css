@@ -96,6 +96,7 @@ header{
 
 /* home */
 .home{
+    background-color: transparent;
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(images/banner.png) center/cover no-repeat fixed;
     padding: 4.5rem 0;
 }
@@ -175,6 +176,7 @@ header{
 /* blog */
 .blog{
     background: #55198a;
+    background-color: transparent;
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(images/banner.png) center/cover no-repeat fixed;
     padding: 4.5rem 0;
 }
@@ -231,6 +233,7 @@ header{
 
 /* about */
 .about{
+    background-color: transparent;
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(images/banner.png) center/cover no-repeat fixed;
     padding: 4.5rem 0;
 }
