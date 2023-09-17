@@ -96,8 +96,11 @@ header{
 
 /* home */
 .home{
-    background-color: transparent;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(images/banner.png) center/cover no-repeat fixed;
+    background: url(images/banner.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     padding: 4.5rem 0;
 }
 .title{
@@ -175,9 +178,11 @@ header{
 
 /* blog */
 .blog{
-    background: #55198a;
-    background-color: transparent;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(images/banner.png) center/cover no-repeat fixed;
+    background: url(images/banner.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     padding: 4.5rem 0;
 }
 .blog-content{
@@ -233,8 +238,11 @@ header{
 
 /* about */
 .about{
-    background-color: transparent;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(images/banner.png) center/cover no-repeat fixed;
+    background: url(images/banner.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     padding: 4.5rem 0;
 }
 .about-text{
