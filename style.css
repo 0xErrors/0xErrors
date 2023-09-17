@@ -393,3 +393,16 @@ h2 {
     }
 }
 
+body {
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  @media (max-width: 767px) {
+    body {
+      background-attachment: scroll;
+    }
+  }
+  
