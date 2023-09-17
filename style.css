@@ -333,6 +333,9 @@ h2 {
 
 /* Media Queries */
 @media screen and (min-width: 540px){
+    body {
+        background-attachment: fixed;
+    }
     .navbar-nav a{
         padding-right: 1.2rem;
         padding-left: 1.2rem;
@@ -349,6 +352,9 @@ h2 {
 }
 
 @media screen and (min-width: 768px){
+    body {
+        background-attachment: fixed;
+    }
     .navbar .container{
         display: flex;
         align-items: center;
@@ -373,6 +379,9 @@ h2 {
 }
 
 @media screen and (min-width: 992px){
+    body {
+        background-attachment: fixed;
+    }
     .blog-content{
         grid-template-columns: repeat(3, 1fr);
     }
@@ -385,6 +394,9 @@ h2 {
 }
 
 @media screen and (min-width: 1200px){
+    body {
+        background-attachment: fixed;
+    }
     .home-content{
         grid-template-columns: repeat(3, 1fr);
     }
