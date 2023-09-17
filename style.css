@@ -96,7 +96,7 @@ header{
 
 /* home */
 .home{
-    background: url(images/banner.png) no-repeat center center fixed; 
+    background: url(images/banner.png) center/cover no-repeat fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -178,7 +178,7 @@ header{
 
 /* blog */
 .blog{
-    background: url(images/banner.png) no-repeat center center fixed; 
+    background: url(images/banner.png) center/cover no-repeat fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -238,7 +238,7 @@ header{
 
 /* about */
 .about{
-    background: url(images/banner.png) no-repeat center center fixed; 
+    background: url(images/banner.png) center/cover no-repeat fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
