@@ -12,10 +12,7 @@
     margin: 0;
     font-family: var(--Quicksand);
 }
-body{
-    line-height: 1.4;
-    color: var(--dark);
-}
+
 img{
     width: 100%;
     display: block;
